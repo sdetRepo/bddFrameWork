@@ -1,0 +1,33 @@
+2020-06-23 19:59:02,632 - Logger_File -INFO - click on Register
+2020-06-23 19:59:03,475 - Logger_File -INFO - Register Form was filled successfully
+2020-06-23 19:59:03,618 - Logger_File -INFO - yes to subscribe is selected
+2020-06-23 19:59:03,716 - Logger_File -INFO - privacy policy is selected
+2020-06-23 19:59:04,609 - Logger_File -INFO - Continue Button clicked
+2020-06-23 19:59:09,636 - Logger_File -INFO - Assertion passed
+2020-06-23 20:01:03,761 - Logger_File -INFO - click on Register
+2020-06-23 20:01:04,536 - Logger_File -INFO - Register Form was filled successfully
+2020-06-23 20:01:04,608 - Logger_File -INFO - yes to subscribe is selected
+2020-06-23 20:01:04,689 - Logger_File -INFO - privacy policy is selected
+2020-06-23 20:01:05,306 - Logger_File -INFO - Continue Button clicked
+2020-06-23 20:37:48,299 - Logger_File -INFO - click on Register
+2020-06-23 20:37:49,068 - Logger_File -INFO - Register Form was filled successfully
+2020-06-23 20:37:49,142 - Logger_File -INFO - yes to subscribe is selected
+2020-06-23 20:37:49,223 - Logger_File -INFO - privacy policy is selected
+2020-06-23 20:37:50,059 - Logger_File -INFO - Continue Button clicked
+2020-06-23 20:37:55,090 - Logger_File -INFO - Assertion passed
+2020-06-23 20:59:20,668 - Logger_File -INFO - click on Register
+2020-06-23 20:59:21,502 - Logger_File -INFO - Register Form was filled successfully
+2020-06-23 20:59:21,582 - Logger_File -INFO - yes to subscribe is selected
+2020-06-23 20:59:21,680 - Logger_File -INFO - privacy policy is selected
+2020-06-23 20:59:22,319 - Logger_File -INFO - Continue Button clicked
+2020-06-23 21:53:44,237 - Logger_File -INFO - click on Register
+2020-06-23 21:53:45,135 - Logger_File -INFO - Register Form was filled successfully
+2020-06-23 21:53:45,219 - Logger_File -INFO - yes to subscribe is selected
+2020-06-23 21:53:45,300 - Logger_File -INFO - privacy policy is selected
+2020-06-23 21:53:45,959 - Logger_File -INFO - Continue Button clicked
+2020-06-23 21:57:52,951 - Logger_File -INFO - click on Register
+2020-06-23 21:57:53,774 - Logger_File -INFO - Register Form was filled successfully
+2020-06-23 21:57:53,861 - Logger_File -INFO - yes to subscribe is selected
+2020-06-23 21:57:53,942 - Logger_File -INFO - privacy policy is selected
+2020-06-23 21:57:54,788 - Logger_File -INFO - Continue Button clicked
+2020-06-23 21:57:59,817 - Logger_File -INFO - Assertion passed
