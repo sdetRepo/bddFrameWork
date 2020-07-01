@@ -11,6 +11,7 @@ import cucumber.api.java.Before;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Initializer extends Base {
+	
 
 	@Before
 	public void beforeHooks() {
@@ -19,6 +20,7 @@ public class Initializer extends Base {
 		if (Base.getBrowserName().equals("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
+			
 
 		} else if (Base.getBrowserName().equals("IE")) {
 
@@ -42,6 +44,7 @@ public class Initializer extends Base {
 	public void afterHooks() {
 
 		Base.tearDown();
+		System.out.println("This is a change");
 
 	}
 }
