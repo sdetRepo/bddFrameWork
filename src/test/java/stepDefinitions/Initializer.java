@@ -44,7 +44,7 @@ public class Initializer extends Base {
 	public void afterHooks() {
 
 		Base.tearDown();
-		System.out.println("This is a change");
+
 
 	}
 }
